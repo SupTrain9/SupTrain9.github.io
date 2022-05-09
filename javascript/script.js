@@ -6,7 +6,7 @@ function myFunc() {
 
   if (RandomChance >= 50){
     document.body.style.backgroundColor = "red";
-  else{
+  }else{
     document.body.style.backgroundColor = "blue";
   }
 }
